@@ -1,2 +1,2 @@
 # CFB Labs
->CFB Labs — стартап из гаража, который создаёт будущее интернета.
+>CFB Labs is a garage-based startup that is shaping the future of the internet.
